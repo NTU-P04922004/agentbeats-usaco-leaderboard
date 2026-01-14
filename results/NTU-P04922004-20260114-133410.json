@@ -1,0 +1,15 @@
+{
+  "participants": {
+    "agent": "019bbc93-5379-7761-8809-1fe8de143f47"
+  },
+  "results": [
+    {
+      "pass_1": 1.0,
+      "time": 3.5802509784698486,
+      "tasks": {
+        "259_bronze_cow_race": "Accepted",
+        "396_bronze_secret_code": "Accepted"
+      }
+    }
+  ]
+}
