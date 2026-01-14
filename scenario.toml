@@ -1,16 +1,11 @@
 [green_agent]
 agentbeats_id = ""
-env = { API_KEY = "${GITHUB_SECRET_NAME}", LOG_LEVEL = "INFO" }
-
-[[participants]]
-agentbeats_id = ""
-name = "role_1_name"
 env = {}
 
 [[participants]]
 agentbeats_id = ""
-name = "role_2_name"
+name = "agent"
 env = {}
 
 [config]
-# Add your assessment config here
+problem_ids = ["259_bronze_cow_race", "396_bronze_secret_code"]
