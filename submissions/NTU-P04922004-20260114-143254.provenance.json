@@ -1,0 +1,17 @@
+{
+  "image_digests": {
+    "green-agent": "ghcr.io/ntu-p04922004/usaco-green-agent@sha256:248bfcef04d8338bd34350d2c24637b151f38a82ea00ffcbb8f3d98942f909cf",
+    "agent": "ghcr.io/ntu-p04922004/usaco-purple-agent@sha256:a26d2b210e0db24a3b0669678deb3e1a17de7ce6a8abb03fd7f8d7f276744bbc",
+    "agentbeats-client": "ghcr.io/agentbeats/agentbeats-client@sha256:13dfe3ef4e583a80e7ce2fe3becd0ce3b879841368a7f4fa40b6ebbabeeb014e"
+  },
+  "timestamp": "2026-01-14T14:32:54Z",
+  "github_actions": {
+    "run_url": "https://github.com/NTU-P04922004/agentbeats-usaco-leaderboard/actions/runs/20997804760",
+    "run_logs_url": "https://api.github.com/repos/NTU-P04922004/agentbeats-usaco-leaderboard/actions/runs/20997804760/logs",
+    "ref": "refs/heads/test-run-02",
+    "sha": "df831832751927ffe61bd6a40e14369c6c7274d2",
+    "repository_url": "https://github.com/NTU-P04922004/agentbeats-usaco-leaderboard",
+    "workflow_ref": "NTU-P04922004/agentbeats-usaco-leaderboard/.github/workflows/run-scenario.yml@refs/heads/test-run-02",
+    "workflow_sha": "df831832751927ffe61bd6a40e14369c6c7274d2"
+  }
+}
