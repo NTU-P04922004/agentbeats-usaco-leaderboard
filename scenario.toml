@@ -1,11 +1,10 @@
 [green_agent]
 agentbeats_id = "019bb72e-8276-7d22-92d9-41c57a5c936e"
-env = {}
+env = { DATASET_ID = "dapumptu/usaco_benchmark" }
 
 [[participants]]
-agentbeats_id = ""
+agentbeats_id = "019bbc93-5379-7761-8809-1fe8de143f47"
 name = "agent"
-env = {}
+env = { SAMBANOVA_API_KEY = "${SAMBANOVA_API_KEY}" }
 
 [config]
-problem_ids = ["259_bronze_cow_race", "396_bronze_secret_code"]
